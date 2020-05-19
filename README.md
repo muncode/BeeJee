@@ -1,5 +1,5 @@
 # BeeJee
-http://beee.zzz.com.ua/old/
+http://beee.zzz.com.ua/BeeJee/
 
 Необходимо создать приложение-задачник.
 Задачи состоят из:
